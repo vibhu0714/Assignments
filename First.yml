@@ -1,7 +1,2 @@
 #!/bin/sh
----
-question: Hello, world!
-buttons:
-  - Exit: exit
-mandatory: True
----
+echo "Hello world"
