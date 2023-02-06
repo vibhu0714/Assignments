@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hi Vibhuti, Current date & time is $(date)"
+echo "Hi ABC, Current date & time is $(date)"
